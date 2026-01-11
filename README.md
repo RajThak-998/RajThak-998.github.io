@@ -1,29 +1,62 @@
 # Rajdev Singh
 
-Hi there! I'm Rajdev, a second-year Computer Engineering student at the Army Institute of Technology. I'm passionate about full-stack development and love building projects that solve real-world problems.
+Backend Engineer | APIs • Databases • Distributed Systems
 
-## About Me
+I am a backend-focused software engineer who enjoys building
+scalable, efficient, and production-ready systems.
 
-- 🎓 Pursuing a Bachelor of Engineering (2024-2027)
-- 🌟 Smart India Hackathon 2023 Winner
-- 💻 Currently learning Data Structures and Algorithms
+I care deeply about how things work under the hood — request flow,
+database design, performance bottlenecks, and system reliability.
 
-## Technologies & Skills
+---
 
-- **Languages**: Python, C++, JavaScript, HTML, CSS
-- **Frameworks**: Django, React.js, Node.js, Express.js
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Visual Studio Code, Git, GitHub
+## 👨‍💻 Engineering Profile
 
+- 🎓 B.Tech in Computer Engineering (2024–2027)
+- 🏆 Smart India Hackathon 2023 Winner
+- 🧠 Strong focus on backend systems and problem solving
+- ⚙️ Actively improving DSA, system design, and core CS fundamentals
 
+---
 
-## Interests
+## 🛠 Backend Tech Stack
 
-- Web Development
-- Artificial Intelligence
-- Competitive prgramming
+**Languages**
+- Python, C++, JavaScript
 
-## Connect with Me
+**Backend Frameworks**
+- FastAPI, Django, Node.js (Express)
 
-- [LinkedIn](https://www.linkedin.com/in/rajdev-singh)
-- [Email](rajdsingh998@gmail.com)
+**Databases**
+- PostgreSQL, MySQL, MongoDB
+- Experience with schema design & indexing
+
+**Infrastructure & Tools**
+- Docker, Git, Linux
+- REST APIs, JWT-based authentication
+
+---
+
+## 🚀 What I Build
+
+- Backend APIs with clean architecture
+- Database-driven applications with optimized queries
+- Async and performance-focused services
+- Systems that are designed to scale, not just run
+
+---
+
+## 🧠 Engineering Interests
+
+- Backend system design
+- API performance & scalability
+- Databases & caching strategies
+- Operating systems & concurrency
+- Competitive programming (for problem-solving depth)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rajdev-singh
+- 📧 Email: rajdsingh998@gmail.com
