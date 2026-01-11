@@ -22,10 +22,10 @@ database design, performance bottlenecks, and system reliability.
 ## 🛠 Backend Tech Stack
 
 **Languages**
-- Python, C++, JavaScript
+- Java, Python, C++, JavaScript
 
 **Backend Frameworks**
-- FastAPI, Django, Node.js (Express)
+- FastAPI, Django, Springboot
 
 **Databases**
 - PostgreSQL, MySQL, MongoDB
